@@ -1,0 +1,6 @@
+LICENSE
+MANIFEST.in
+README
+setup.py
+PyFlickrStreamr/PyFlickrStreamr.py
+PyFlickrStreamr/__init__.py
